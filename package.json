@@ -1,0 +1,27 @@
+{
+  "name": "discord-twitch-bot",
+  "version": "2.4.3",
+  "description": "twitch!",
+  "main": "discord-twitch-bot.js",
+  "scripts": {
+    "test": "node discord-twitch-bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ysrylmz32/twitch-notifier-bot.git"
+  },
+  "keywords": [
+    "twitch"
+  ],
+  "author": "SinecKers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ysrylmz32/twitch-notifier-bot/issues"
+  },
+  "homepage": "https://github.com/ysrylmz32/twitch-notifier-bot#readme",
+  "dependencies": {
+    "config": "^1.30.0",
+    "discord.io": "github:Woor/discord.io#gateway_v6",
+    "https": "^1.0.0"
+  }
+}
