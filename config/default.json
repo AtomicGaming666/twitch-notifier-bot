@@ -1,14 +1,15 @@
-{ "configuration": {
-        "commandPrefix": "!",
+{"configuration": {
+        "commandPrefix": "&",
         "logfile": "./discord-twitch-bot.log",
-        "authToken": "discord bot user's auth token",
-        "adminUserId": "your discord user ID",
-        "channelId": "discord channel id to notify when bot comes online", 
-        "serverId": "not used, recommended to set to above channel's owning server",
-        "nickname": "Example Twitch Notifier Bot",
-        "currentGame": "Twitch Simulator 2018", 
+        "authToken": "NDM0ODQzOTQzNTExNzg1NDky.Dbp-vA.GPrbgq3pfZROo0OecJbqzb_fX5o",
+        "adminUserId": "380411952666640385",
+        "channelId": "436607930888880128", 
+        "serverId": "407955041798979584",
+        "nickname": "Twitch Notifier Bot",
+        "currentGame": "Twitch <3 | SinecKers",
         "twitch": {
-		"interval": 300,
-		"token": "your bot's twitch application's token"
-	}
-} }
+            "interval": 60,
+			"token": "o7ha0f67xyr69w5lkyxgpb60gp2em4"
+        }
+    }
+}
